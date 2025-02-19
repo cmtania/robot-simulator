@@ -1,0 +1,14 @@
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.exe
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.deps.json
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.runtimeconfig.json
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.dll
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\bin\Debug\net8.0\RobotSimulator.pdb
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.AssemblyInfoInputs.cache
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.AssemblyInfo.cs
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.csproj.CoreCompileInputs.cache
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.dll
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\obj\Debug\net8.0\refint\RobotSimulator.dll
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.pdb
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\obj\Debug\net8.0\RobotSimulator.genruntimeconfig.cache
+Z:\Git\robot-simulator-final\RobotSimulator\RobotSimulator\obj\Debug\net8.0\ref\RobotSimulator.dll
